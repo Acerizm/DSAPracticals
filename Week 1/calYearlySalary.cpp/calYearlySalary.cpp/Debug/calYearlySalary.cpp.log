@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Employee.cpp
+  calYearlySalarycpp.cpp
+c:\users\haiqel\documents\year 2.2\data structures & algorithms\week 1\calyearlysalary.cpp\calyearlysalary.cpp\calyearlysalarycpp.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  calYearlySalary.cpp.vcxproj -> C:\Users\Haiqel\Documents\Year 2.2\Data Structures & Algorithms\Week 1\calYearlySalary.cpp\Debug\calYearlySalary.cpp.exe
+  calYearlySalary.cpp.vcxproj -> C:\Users\Haiqel\Documents\Year 2.2\Data Structures & Algorithms\Week 1\calYearlySalary.cpp\Debug\calYearlySalary.cpp.pdb (Partial PDB)

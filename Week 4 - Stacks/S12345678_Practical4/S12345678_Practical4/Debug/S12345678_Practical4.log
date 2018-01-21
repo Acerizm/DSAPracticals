@@ -1,0 +1,9 @@
+﻿  CharStack.cpp
+c:\dsa\s12345678_practical4\s12345678_practical4\charstack.cpp(4): warning C4553: '==': operator has no effect; did you intend '='?
+  Generating Code...
+  Compiling...
+  S12345678Practical4.cpp
+c:\dsa\s12345678_practical4\s12345678_practical4\s12345678practical4.cpp(166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  S12345678_Practical4.vcxproj -> C:\DSA\S12345678_Practical4\Debug\S12345678_Practical4.exe
+  S12345678_Practical4.vcxproj -> C:\DSA\S12345678_Practical4\Debug\S12345678_Practical4.pdb (Partial PDB)
